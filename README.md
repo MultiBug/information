@@ -1,9 +1,16 @@
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) 
+
+
 <details><summary>Доработки</summary>
 <p> 
-![alt text](img/time.jpeg)
+          ![alt text](img/time.jpeg)
 </p>
 </details>
+
+
+
+
+
 [Описание профессий](https://www.thebalancecareers.com/list-of-information-technology-it-job-titles-2061498#types-of-it-jobs)
 
 # Информация
